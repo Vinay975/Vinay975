@@ -1,10 +1,15 @@
 <!-- ✨ Stylish GitHub Profile README for Vinay Tellagorla -->
 
+<p align="center">
+  <!-- Animated coding banner -->
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGNzcWI2Yml5a2loOHV3OXU1dndpbHpwZDN5MnFpOHd2eDRyY205dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" alt="My cool header banner" width="100%" />
+</p>
+
 <h1 align="center">👋 Hey, I'm <strong>Vinay Tellagorla</strong></h1>
 <h3 align="center">AI & ML Undergrad • Full-Stack & Mobile App Developer</h3>
 
 <p align="center">
-<a href="mailto:tellagorlavinay78@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="mailto:tellagorlavinay78@gmail.com"><aimg alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/vinay-tellagorla-82207b2a8/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://github.com/Vinay975"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
 <a href="https://project-vinay-portfolio.netlify.app/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white"></a>
