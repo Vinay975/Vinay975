@@ -9,10 +9,10 @@
 <h3 align="center">AI & ML Undergrad • Full-Stack & Mobile App Developer</h3>
 
 <p align="center">
-<a href="mailto:tellagorlavinay78@gmail.com"><aimg alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/vinay-tellagorla-82207b2a8/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://github.com/Vinay975"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-<a href="https://project-vinay-portfolio.netlify.app/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white"></a>
+  <a href="mailto:tellagorlavinay78@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/vinay-tellagorla-82207b2a8/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/Vinay975"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://project-vinay-portfolio.netlify.app/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white"></a>
 </p>
 
 ---
@@ -20,7 +20,7 @@
 ### 🚀 About Me
 🎓 **B.Tech in Artificial Intelligence & Machine Learning (2022–26)** – Aditya Engineering College (CGPA: 7.8)  
 💡 Passionate about **AI-driven applications** and **full-stack mobile/web development**.  
-🏆 Competitive programmer: **300+ LeetCode** & **400+ GfG** problems, **5⭐ HackerRank** in Python, C, C++, SQL & Problem Solving.
+🏆 Competitive programmer: **300+ LeetCode** & **400+ GfG** problems, **5⭐ HackerRank** in Python, C, C++, SQL & Problem Solving.  
 
 ---
 
@@ -83,10 +83,19 @@
 
 ### 📊 GitHub Analytics
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Vinay975&show_icons=true&theme=radical" height="160" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Vinay975&theme=radical" height="160" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinay975&layout=compact&theme=radical" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Vinay975&show_icons=true&theme=radical" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vinay975&theme=radical" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinay975&layout=compact&theme=radical" height="160" />
 </p>
+
+---
+
+### 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Vinay975&theme=radical&no-frame=true&margin-w=15&margin-h=15" />
+</p>
+
+
 
 ---
 
